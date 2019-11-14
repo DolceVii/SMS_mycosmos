@@ -1,4 +1,4 @@
-# SMS_mycomsos
+# SMS_mycosmos
 Send SMS via mycosmos.gr
 
 Σίγουρα όλοι έχουμε δοκιμάσει τα "demo" api αποστολής SMS από ίντερνετ όπως το twilio.
